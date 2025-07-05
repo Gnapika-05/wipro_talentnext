@@ -1,12 +1,10 @@
 package java_fundamentals;
 
-
-public class LB_Question_2 {
+public class LanguageBasics_Q1 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("Welcome "+args[0]);
-		
+		System.out.println(args[0]+" Technologies "+args[1]);
 
 	}
 
